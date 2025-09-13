@@ -2,5 +2,8 @@ Green
 Blue
 Yellow
 Red
+Purple
+Orange
 
 Blue is my favorite
+
