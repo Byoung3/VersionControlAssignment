@@ -2,3 +2,5 @@ Green
 Blue
 Yellow
 Red
+
+Blue is my favorite
